@@ -5,7 +5,7 @@
 * This program implements the Reduced Network Extremal Ensemble Learning (RenEEL) scheme for maximizing modularity. 
 * Instructions for usage are contained in the file readme.txt
 *
-* If you it for your work, please cite the following paper:
+* If you use it for your work, please cite the following paper:
 * Reduced network extremal ensemble learning (RenEEL) scheme for community detection in complex networks,
 * Jiahao Guo, Pramesh Singh & Kevin E. Bassler 
 * Scientific Reports volume 9, Article number: 14234 (2019) 
