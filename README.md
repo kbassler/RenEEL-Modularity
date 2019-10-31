@@ -32,16 +32,16 @@ This will generate file a.out.
 
 3. Run a.out with 3 arguments.
 
-argument 1: Positive Integer, parameter for Randomized Greedy  (usually 2)\
-argument 2: Positive Integer, maximum and initial ensemble size of partitions used in RenEEL\
-argument 3: Positive Integer, ensemble size of partitions of the reduced network for iteration part in RenEEL\
-(seed of random number will be generated using system time)
-
+argument 1: Positive Integer, parameter for Randomized Greedy  (usually 2)  
+argument 2: Positive Integer, maximum and initial ensemble size of partitions used in RenEEL  
+argument 3: Positive Integer, ensemble size of partitions of the reduced network for iteration part in RenEEL  
+(seed of random number will be generated using system time)  
+  
 Example:
 	./a.out 2 10 5 
 
 4. Collect results
 
-file 1: partition.txt  \ 
-file 2: result.txt, a copy will also be printed to stdout\
+file 1: partition.txt  
+file 2: result.txt, a copy will also be printed to stdout  
 file 3: records.txt each run will generate a single line for record log
