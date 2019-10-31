@@ -32,9 +32,9 @@ This will generate file a.out.
 
 3. Run a.out with 3 arguments.
 
-argument 1: Positive Integer, parameter for Randomized Greedy  (usually 2)
-argument 2: Positive Integer, ensemble size
-argument 3: Positive Integer, ensemble size of partitions of the reduced network for iteration part in RenEEL
+argument 1: Positive Integer, parameter for Randomized Greedy  (usually 2)\
+argument 2: Positive Integer, ensemble size\
+argument 3: Positive Integer, ensemble size of partitions of the reduced network for iteration part in RenEEL\
 (seed of random number will be generated using system time)
 
 Example:
