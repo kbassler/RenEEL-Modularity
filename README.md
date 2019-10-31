@@ -2,9 +2,9 @@
 Reduced Network Extremal Ensemble Learning (RenEEL) Algorithm for Modularity Maximization 
 
 If you use this code, please cite the paper:
-J. Guo, P. Singh, K. E. Bassler, Scientific Reports 9, 14234 (2019)
+J. Guo, P. Singh, K. E. Bassler, Scientific Reports 9, 14234 (2019).
 
-This is an implementation of the Reduced Network Extremal Ensemble Learning (RenEEL) scheme for community detection in complex networks. The example network used here for illustration is the Zachary’s Karate Club network (W. W. Zachary, Journal of Anthropological Research. 33 (4): 452–473 (1977)).
+This is an implementation of the Reduced Network Extremal Ensemble Learning (RenEEL) scheme for community detection in complex networks. The example network used here for illustration is the Zachary’s Karate Club network (W. W. Zachary, Journal of Anthropological Research. 33 (4): 452–473 (1977).
 
 For comments/questions and reporting any bugs that you encounter in the program please contact Kevin E. Bassler (bassler@uh.edu)
 
@@ -33,8 +33,8 @@ This will generate file a.out.
 3. Run a.out with 3 arguments.
 
 argument 1: Positive Integer, parameter for Randomized Greedy  (usually 2)
-argument 2: Positive Integer, ensemble size divided by CPU numbers (suppose you are using 4 CPU cores and 5 here, your ensemble size will be 4*5=20)
-argument 3: Positive Integer, ensemble size divided by CPU numbers of partitions of the reduced network for iteration part in RenEEL (suppose you are using 4 CPU cores and 2 here, your ensemble size during iteration of RenEEL will be 4*2=8)
+argument 2: Positive Integer, ensemble size
+argument 3: Positive Integer, ensemble size of partitions of the reduced network for iteration part in RenEEL
 (seed of random number will be generated using system time)
 
 Example:
