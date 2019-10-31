@@ -44,4 +44,4 @@ Example:
 
 file 1: partition.txt\ 
 file 2: result.txt, a copy will also be printed to stdout\
-file 3. records.txt each run will generate a single line for record log.
+file 3: records.txt each run will generate a single line for record log
