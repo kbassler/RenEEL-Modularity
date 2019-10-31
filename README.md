@@ -4,7 +4,7 @@ Reduced Network Extremal Ensemble Learning (RenEEL) Algorithm for Modularity Max
 If you use this code, please cite the paper:
 J. Guo, P. Singh, K. E. Bassler, Scientific Reports 9, 14234 (2019).
 
-This is an implementation of the Reduced Network Extremal Ensemble Learning (RenEEL) scheme for community detection in complex networks. The example network used here for illustration is the Zachary’s Karate Club network (W. W. Zachary, Journal of Anthropological Research. 33 (4): 452–473 (1977).
+This is an implementation of the Reduced Network Extremal Ensemble Learning (RenEEL) scheme for community detection in complex networks. The example network used here for illustration is the Zachary’s Karate Club network (W. W. Zachary, Journal of Anthropological Research. 33 (4): 452–473 (1977)).
 
 For comments/questions and reporting any bugs that you encounter in the program please contact Kevin E. Bassler (bassler@uh.edu)
 
