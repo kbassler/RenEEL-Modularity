@@ -264,6 +264,8 @@ int main(int argc, char *argv[])
 
     int iteration=0;
     int *ref, bp;
+    // ref: new group label for each old group (group=community)
+    // score: current group label for each original node (not reduced node) 
     ref=(int*)malloc(sizeof(int)*G.N);
 	for (i = 0;i < G.N;i++)
 		score[i] = i + 1;
