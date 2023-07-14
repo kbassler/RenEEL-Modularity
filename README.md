@@ -13,7 +13,7 @@ To use the RenEEL scheme for maximizing modularity (Q), follow the steps below:
 
 1. Prepare data
 
-1.1 Use an edgelist file including 2 columns separated by space or tab with no header. The network should be unweighted, undirected. Self-loops will be ignored.  
+1.1 Use an edgelist file including 2 columns separated by space or tab with no header. The network should be unweighted, undirected. Self-loops will be ignored. Nodes must be labeled from 1 to N where N is the total number of nodes to consider. 
 (See example input file karate.txt)  
 1.2 Use bash script (work.sh) to generate the three files required by the program.
 
